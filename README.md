@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 </h1> 
-<p align="center"> Introducing 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center">Mr-Sky-𝗺𝗱 </h1> 
+<p align="center"> Introducing Mr-Sky-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -12,10 +12,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-hjk
+
 <p align="center">
   <a href="https://github.com/Peterjoram/Mr-Sky-md">
-    <img alt="Mr-Sky docs" height="300" src="https://telegra.ph/file/0902a3166d65d2675d4fe.jpg">
+    <img alt="Mr-Sky docs" height="300" src="https://telegra.ph/file/3947735723d9a3ec3fbe0.jpg">
   </a>
 </p>
     

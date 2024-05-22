@@ -109,13 +109,13 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Peterjoram/Mr-Sky-md/fork) and `Star ⭐ Repository` for Courage.***
-5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPeterjoram%2FMr-Sky-md)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/kingjux/Venocyber-Md)***
-9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+5. and `Star ⭐ Repository` for Courage.***
+8.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+9.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+10.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPeterjoram%2FMr-Sky-md)***
+11.  ***Deploy on [`Replit`](https://replit.com/github/kingjux/Venocyber-Md)***
+11.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
+12.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---

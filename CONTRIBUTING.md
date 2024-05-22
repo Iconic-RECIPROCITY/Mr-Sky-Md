@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# VENOCYBER MD
+# MRSKY MD
 
-You can send anything via VODACOM Mpesa number 0749614269 <b>JASTIN ASHERY MTEWA</b>
+You can send anything via Tigo Pesa number 0715654328 <b>PETER SICHILIMA</b>

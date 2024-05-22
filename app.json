@@ -1,15 +1,15 @@
 {
-  "name": "Mr-Sky-md",
+  "name": "MrSky-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["Venocyber-md", "VENOCYBER", "VENOCYBER MD","VENOCYBER MD wabot","Venocyber","Venocybertech"],
+  "logo": "https://telegra.ph/file/3947735723d9a3ec3fbe0.jpg",
+  "keywords": ["MrSky-md", "MRSKY", "MRSKY MD","MRSKY MD wabot","MrSky","MrSkytech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "VENOCYBER-𝐓𝐄𝐂𝐇",
+      "value": "MRSKY-𝐓𝐄𝐂𝐇",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "VENOCYBER-𝐌𝐃"
+      "value": "MRSKY-𝐌𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255625774543"
+      "value": "255715654328"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "VENOCYBER",
+      "value": "MRSKY",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "VENOCYBER BOTS 🧚",
+      "value": "MRSKY BOTS 🧚",
       "required": false
     }
   },

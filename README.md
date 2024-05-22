@@ -168,23 +168,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
  
   ##
   
-  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
-  
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
- <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
-   
-* ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
-<p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
+  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To s
 [![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+MrSky+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
 
-<h1>💗</h1> 
+<h1>MR SKY MD</h1> 
 <b>Thanks For</b> -
 
  [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
@@ -199,13 +186,16 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 [![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+MrSky;Admin🥰)](https://github.com/Kingjux)
 
-<p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
-  </a>
-</p>
-    
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+
+
+
+
+
+
+
+

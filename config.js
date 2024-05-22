@@ -17,7 +17,7 @@ global.github = process.env.GITHUB || "https://github.com/Peterjoram/Mr-Sky-md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/3947735723d9a3ec3fbe0.jpg";
-global.devs = "255625774543";
+global.devs = "255715654328";
 global.sudo = process.env.SUDO || "255715654328";
 global.owner = process.env.OWNER_NUMBER || "255715654328";
 global.style = process.env.STYLE || "3";
@@ -46,7 +46,7 @@ global.SESSION_ID =
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
-  BRANCH: process.env.BRANCH || "main",
+  BRANCH: process.env.BRANCH || "main28",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "😁😁😁😁😁😁😁😁😁😁😁😁😁 need support then ☞ https://rb.gy/izabex ═════╣",
   author: process.env.PACK_AUTHER || "MRSKY",

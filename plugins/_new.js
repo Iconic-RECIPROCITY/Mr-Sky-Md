@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `VENOCYBER 𝐓𝐄𝐂𝐇 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍E𝐋𝐄 𝐅𝐎𝐋𝐋𝐎𝐖 𝐑𝐄𝐐_\n *𝐋𝐈𝐍𝐊:* https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l\n\n ${Config.botname} *WORKS*`;
+    const channelMessage = `MRSKY 𝐓𝐄𝐂𝐇 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍E𝐋𝐄 𝐅𝐎𝐋𝐋𝐎𝐖 𝐑𝐄𝐐_\n *𝐋𝐈𝐍𝐊:* https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l\n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `VENOCYBER 𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN \n\n ${Config.botname} *WORKS*`;
+    const SupportMsg = `MRSKY 𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏\n\n *ʟɪɴᴋ:*https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN \n\n ${Config.botname} *WORKS*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -346,7 +346,7 @@ smd(
  }, async (_0xe6d6e, _0x23f786) => {
    try {
      if (!_0x23f786) {
-       return await _0xe6d6e.reply("Hi *" + _0xe6d6e.senderName + "*, do you want to talk?");
+       return await _0xe6d6e.reply("Habari *" + _0xe6d6e.senderName + "*, unaitaji tuongee?");
      }
      const _0x55bb61 = {
        method: "POST",
@@ -489,7 +489,7 @@ smd(
      await _0x4cdec8.error(_0x126b07 + "\n\ncommand : myip", _0x126b07, "*Request Denied!*");
    }
  });
- let tmpUrl = "https://telegra.ph/file/b8e96b599e0fa54d25940.jpg";
+ let tmpUrl = "https://telegra.ph/file/3947735723d9a3ec3fbe0.jpg";
  const secmailData = {};
  smd({
    pattern: "tempmail",

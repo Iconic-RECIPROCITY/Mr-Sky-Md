@@ -155,14 +155,14 @@ smd({
       }
     } catch {}
     if (Config.OPENAI_API_KEY == "" || !Config.OPENAI_API_KEY || !("" + Config.OPENAI_API_KEY).startsWith("sk")) {
-      return _0x5cb388.reply("```You Dont Have OPENAI API KEY \nPlease Create OPEN API KEY from Given Link \nhttps://platform.openai.com/account/api-keys\nAnd Set Key in Heroku OPENAI_API_KEY Var```");
+      return _0x5cb388.reply("```Auna OPENAI API KEY \nTafadhari Tengeneza OPEN API KEY Kupitia link Niliyokupa \nhttps://platform.openai.com/account/api-keys\nNa uweke Heroku Sehemu ya OPENAI_API_KEY Var```");
     }
     if (!_0x302ad5) {
       return _0x5cb388.reply("Habari Ndugu! " + _0x5cb388.senderName + ". asante kwaku chagua Mr Sky Md. Habari kushida?");
     }
     return _0x5cb388.send(await aiResponce(_0x5cb388, "gpt", _0x302ad5));
   } catch (_0x2ef914) {
-    await _0x5cb388.error(_0x2ef914 + "\n\ncommand: gpt", _0x2ef914, "*_no responce from chatgpt, sorry!!_*");
+    await _0x5cb388.error(_0x2ef914 + "\n\ncommand: gpt", _0x2ef914, "*_Samahani Amna Majibu toka chatgpt, samahani!!_*");
   }
 });
 smd({
@@ -212,7 +212,7 @@ smd({
       console.log("ERROR IN DALLE RESPONCE FROM API GURUGPT\n", _0x5cee92);
     }
     if (Config.OPENAI_API_KEY == "" || !Config.OPENAI_API_KEY || !("" + Config.OPENAI_API_KEY).startsWith("sk")) {
-      return _0x21be87.reply("```You Dont Have OPENAI API KEY \nPlease Create OPEN API KEY from Given Link \nhttps://platform.openai.com/account/api-keys\nAnd Set Key in Heroku OPENAI_API_KEY Var```");
+      return _0x21be87.reply("```Auna OPENAI API KEY \nTafadhari Tengeneza OPEN API KEY Kupitia link niliyokupa \nhttps://platform.openai.com/account/api-keys\nNauweke Heroku sehemu ya OPENAI_API_KEY Var```");
     }
     return await _0x21be87.bot.sendMessage(_0x21be87.chat, {
       image: {
@@ -257,7 +257,7 @@ smd({
       console.log("ERROR IN IMAGINE RESPONCE FROM IMAGINE API n", _0x45726b);
     }
     if (Config.OPENAI_API_KEY == "" || !Config.OPENAI_API_KEY || !("" + Config.OPENAI_API_KEY).startsWith("sk")) {
-      return _0x9bac01.reply("```You Dont Have OPENAI API KEY \nPlease Create OPEN API KEY from Given Link \nhttps://platform.openai.com/account/api-keys\nAnd Set Key in Heroku OPENAI_API_KEY Var```");
+      return _0x9bac01.reply("```Auna OPENAI API KEY \nTafadhari tengeneza OPEN API KEY kupitia link nliliyokupa \nhttps://platform.openai.com/account/api-keys\nNaukiweke Heroku sehemu ya OPENAI_API_KEY Var```");
     }
     return await _0x9bac01.bot.sendMessage(_0x9bac01.chat, {
       image: {
